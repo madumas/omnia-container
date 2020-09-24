@@ -11,6 +11,6 @@ export EXT_IP=9.9.9.9
 
 
 docker build ./ -t omnia
-docker-compose up omnia
+docker-compose up oracle
 
 ```
